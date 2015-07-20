@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A3FC4CF9-A28D-46C2-BB1A-30A73153D080</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>MtGit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>2606CFE18303E70A19910B9C07347C5EC56C3AAB</key>
 		<string>https://github.com/lchcyf/lch.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MtGit/MtGit.xcodeproj/project.xcworkspace</string>
+	<string>MtGit/MtGit.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2606CFE18303E70A19910B9C07347C5EC56C3AAB</key>
